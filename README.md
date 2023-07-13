@@ -14,7 +14,8 @@ DOCUMENTATION:
 
 INSTALLATION: 
 
-   1. Download the package file from [here](https://github.com/Bongus11/RecRoomStudioDiscordRichPresence/releases).
-   2. Go to Assets > Import Package > Custom Package 
-   3. Select the package you just downloaded.
-   4. Restart Unity for the package to work properly.
+   1. Download the package.zip file from [here](https://github.com/Bongus11/RecRoomStudioDiscordRichPresence/releases).
+   2. Unzip file and extract the .unitypackage file.
+   3. Go to Assets > Import Package > Custom Package 
+   4. Select the package you just downloaded.
+   5. Restart Unity for the package to work properly.
