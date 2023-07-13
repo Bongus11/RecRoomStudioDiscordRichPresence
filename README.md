@@ -11,3 +11,10 @@ DOCUMENTATION:
 
    - You can access the settings from Window > RRS Rich Presence.
    - The project name is the name of the folder the project is located in, which should be the name you gave the project in Unity Hub.
+
+INSTALLATION: 
+
+   1. Download the package file here.
+   2. Go to Assets > Import Package > Custom Package 
+   3. Select the package you just downloaded.
+   4. Restart Unity for the package to work properly.
