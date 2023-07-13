@@ -4,7 +4,7 @@ You can find the package here: https://assetstore.unity.com/packages/tools/utili
 
 Created by Bongus#6063
 
-Contact me in the Rec Room Studio discord server if you need any help!
+Create an Issue if you need any help, please report any errors you get and make sure to include either screenshots, or log files in the Issue.
 
 
 DOCUMENTATION: 
