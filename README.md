@@ -6,4 +6,4 @@ Created by Bongus#6063
 
 Create an Issue if you need any help, please report any errors you get and make sure to include either screenshots, or log files in the Issue.
 
-Installation instructions can be found [here](https://github.com/Bongus11/RecRoomStudioDiscordRichPresence/wiki)https://github.com/Bongus11/RecRoomStudioDiscordRichPresence/wiki).
+Installation instructions can be found [here](https://github.com/Bongus11/RecRoomStudioDiscordRichPresence/wiki)https://github.com/Bongus11/RecRoomStudioDiscordRichPresence/wiki
